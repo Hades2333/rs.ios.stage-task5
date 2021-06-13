@@ -20,3 +20,4 @@ public final class Knapsack {
         return -1
     }
 }
+
